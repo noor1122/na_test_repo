@@ -28,5 +28,7 @@
 - (void)creatingSampleXcodeProj
 {
     NSLog(@"sample created for git");
+    NSLog(@"sample created for git");
+    
 }
 @end
