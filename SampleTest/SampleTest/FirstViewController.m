@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
@@ -24,4 +25,8 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (void)creatingSampleXcodeProj
+{
+    NSLog(@"sample created for git");
+}
 @end
